@@ -260,4 +260,7 @@
 		</pluginManagement>
 	</build>
 
+	<modules>
+		<module>e3_search_web</module>
+	</modules>
 </project>
